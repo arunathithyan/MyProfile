@@ -65,23 +65,24 @@ index.html
 	4.Skills
 		1.Tab bar navigation
 			1.Languages
-			2.Web
-			3.Web development tools
-			4.Other tools
+			2.Technical Skills
+			3.Others
+			
 	5.Projects
 		1.Collapsable panel
-			1. Online Book Store
-			2. Online Internal revenue Service
-			3. Employee database
-			4. PhotoMania
-			5. Task Assignment
-			6. Pirate Adventure
-			7. Detecting DDoS Attacks using C4.5 Algorithm	
+			1. Ally
+			2. Xerox HealthCare
+			3. Anthem Inc.
+			4. TechIT
+			5. ChatApp
+			6. Microsoft Azure
+			7. Online File Manager
+			8. Semantic Question-Answering System
 	6.Work Experience
 		1.Tab bar navigation
-			1. The MathWorks
-			2. AskMDx
-			2. NimbleHeart,Inc
+			1. Broadridge Financial Solutions
+			2. California State University
+			3. Cognizant
 	7.Course work
 		1.Table
 	8.Contact
@@ -90,11 +91,11 @@ index.html
 
 LICENSING
 ---------
-The webpage was developed by Divakaran Jeyachandran, graduate student
-at The University of Texas at Dallas.
+The webpage was developed by Arun Athithyan, graduate student
+at California State University, Los Angeles.
 
 CONTACT
 -------
-Divakaran Jeyachandran
-divakaran2392@gmail.com
+Arun Athithyan
+arunathithyan92@gmail.com
 
